@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch5/AddApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch5/BigDecimalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch5/CompareWithoutEpsilon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch5/MenuApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/AbsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/AbsApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/BingoIfApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/BingoIfApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/BreakContinueApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/BreakContinueApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/DigitCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/DigitCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/DoMenuApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/DoMenuApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/EternalWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/EternalWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/ExerciseOneCh3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/ExerciseOneCh3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/ExerciseTwoCh3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/ExerciseTwoCh3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/FactorialApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/FactorialApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/GenericWhileApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/GenericWhileApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/LightsOnApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/LightsOnApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/LinearApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/LinearApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/MenuIfFeedbackApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/MenuIfFeedbackApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/MinApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/MinApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/Mul10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/Mul10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/MulGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/MulGeneric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/NestedIfApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/NestedIfApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/PositivesCountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/PositivesCountApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/PowerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/PowerApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/SentinelApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/SentinelApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/SnowingApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/SnowingApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/Stars10App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/Stars10App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/Sum10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/Sum10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/SumNApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/SumNApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/TankApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/TankApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/TemperatureApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/TemperatureApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/TernaryOpApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/TernaryOpApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/TernaryPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/TernaryPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/WinApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/WinApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch5/FloatingPointApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch5/FloatingPointApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="6/11/2023&#10;Training and CFCourse" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,6 +125,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699118539726</updated>
     </task>
+    <task id="LOCAL-00001" summary="6/11/2023&#10;Training and CFCourse">
+      <option name="closed" value="true" />
+      <created>1699292968793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699292968793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6/11/2023&#10;Training and CFCourse" />
+    <option name="LAST_COMMIT_MESSAGE" value="6/11/2023&#10;Training and CFCourse" />
   </component>
 </project>
