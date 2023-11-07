@@ -1,4 +1,4 @@
-package gr.aueb.codingfactory.ch3;
+package gr.aueb.codingfactory.exr;
 
 import java.util.Scanner;
 

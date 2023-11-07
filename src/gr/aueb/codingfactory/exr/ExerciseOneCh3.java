@@ -1,4 +1,4 @@
-package gr.aueb.codingfactory.ch3;
+package gr.aueb.codingfactory.exr;
 
 /*
   Θέλουμε να αναπτύξουμε ένα πρόγραμμα που να αποφαίνεται αν ένα έτος είναι δίσεκτο ή όχι
