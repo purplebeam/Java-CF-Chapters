@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="6/11/2023&#10;Training and CFCourse">
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/AddApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/InitialsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/MenuApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/SumApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/AddBigIntsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/AdderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/BankOfScotlandApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/DateApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/DateToSecondsApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/ExprApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/FahrenheitCelsius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/IntApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/MathApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/MathPowersApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/RandomDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/ScannerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseOneCh1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseThreeCh1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseTwoCh1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/3ExercisesJava-PapageorgiouKonstantinos.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/AddApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/InitialsApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/MenuApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch1/SumApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/AddBigIntsApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/AdderDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/BankOfScotlandApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/DateApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/DateToSecondsApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/ExprApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/FahrenheitCelsius.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/IntApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/MathApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/MathPowersApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/Operators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch2/RandomDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/ExerciseOneCh3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseOneCh3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch3/ExerciseTwoCh3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseTwoCh3.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="7/11/2023&#10;Training and CFCourse" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,12 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699297254076</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="7/11/2023&#10;Training and CFCourse">
+      <option name="closed" value="true" />
+      <created>1699321576618</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699321576618</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="6/11/2023&#10;Training and CFCourse" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/11/2023&#10;Training and CFCourse" />
+    <MESSAGE value="7/11/2023&#10;Training and CFCourse" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/11/2023&#10;Training and CFCourse" />
   </component>
 </project>
