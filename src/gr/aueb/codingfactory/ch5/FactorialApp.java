@@ -3,7 +3,8 @@ package gr.aueb.codingfactory.ch5;
 public class FactorialApp {
 
     public static void main(String[] args) {
-        System.out.println(facto(5));
+        int n = 10;
+        System.out.println("Factorial of " + n + " is: " + FactorialApp.facto(n));
     }
 
     /**
