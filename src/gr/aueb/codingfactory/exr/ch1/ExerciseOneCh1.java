@@ -1,4 +1,4 @@
-package gr.aueb.codingfactory.exr;
+package gr.aueb.codingfactory.exr.ch1;
 
 /**
  *   Όνομα : Κωνσταντίνος

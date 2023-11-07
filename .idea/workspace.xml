@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="7/11/2023&#10;Training and CFCourse" />
+    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="7/11/2023&#10;Training and CFCourse">
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/EmojisApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/HelloChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/IOApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/OrdinalsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseOneCh1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ch1/ExerciseOneCh1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseOneCh3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ch3/ExerciseOneCh3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseThreeCh1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ch1/ExerciseThreeCh1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseTwoCh1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ch1/ExerciseTwoCh1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ExerciseTwoCh3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ch3/ExerciseTwoCh3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,13 +52,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/CF-Java/CF-Java-Training/Java-CF-Chapters/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoDigitApp">
-    <configuration name="MathPowersApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch2.MathPowersApp" />
+  <component name="RunManager" selected="Application.IOApp">
+    <configuration name="EmojisApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.EmojisApp" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch2.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.ch4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch2.Operators" />
+    <configuration name="HelloChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.HelloChar" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch2.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.ch4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch2.RandomDemo" />
+    <configuration name="IOApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.IOApp" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch2.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.ch4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch2.ScannerApp" />
+    <configuration name="OrdinalsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.OrdinalsApp" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch2.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.ch4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IOApp" />
+        <item itemvalue="Application.EmojisApp" />
+        <item itemvalue="Application.OrdinalsApp" />
+        <item itemvalue="Application.HelloChar" />
         <item itemvalue="Application.TwoDigitApp" />
-        <item itemvalue="Application.ScannerApp" />
-        <item itemvalue="Application.RandomDemo" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.MathPowersApp" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699321576618</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="7/11/2023&#10;Training and CFCourse">
+      <option name="closed" value="true" />
+      <created>1699321720413</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699321720413</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
