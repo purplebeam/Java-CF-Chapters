@@ -1,9 +1,7 @@
 package gr.aueb.codingfactory.ch5;
 
 import java.util.Scanner;
-
 public class EvenOrOddApp {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int num = 1;
@@ -19,7 +17,6 @@ public class EvenOrOddApp {
         }
 
     }
-
     /**
      *
      * @param num the number to check if it's Even
@@ -37,6 +34,4 @@ public class EvenOrOddApp {
     public static boolean isOdd(int num) {
         return num % 2 != 0;
     }
-
-
 }
