@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="7/11/2023&#10;Training and CFCourse">
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/For10App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/ForBigIntApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/ForBreakApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/ForEverApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/ForFlexibleApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/ForMulSumApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/ForPowerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/IO2App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="8/11/2023&#10;Training and CFCourse">
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/Stars10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/Stars10Vertical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/StarsAsc10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/StarsDesc10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/StarsHV10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/SwitchApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch4/SwitchFallThroughApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,20 +40,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "onboarding.tips.debug.path": "C:/CF-Java/CF-Java-Training/Java-CF-Chapters/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/CF-Java/CF-Java-Training/Java-CF-Chapters/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ForEverApp">
-    <configuration name="ForBigIntApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.ForBigIntApp" />
+}</component>
+  <component name="RunManager" selected="Application.StarsDesc10">
+    <configuration name="Stars10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.Stars10" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForBreakApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.ForBreakApp" />
+    <configuration name="Stars10Vertical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.Stars10Vertical" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEverApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.ForEverApp" />
+    <configuration name="StarsAsc10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.StarsAsc10" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForFlexibleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.ForFlexibleApp" />
+    <configuration name="StarsDesc10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.StarsDesc10" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForPowerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.ForPowerApp" />
+    <configuration name="StarsHV10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch4.StarsHV10" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForEverApp" />
-        <item itemvalue="Application.ForBreakApp" />
-        <item itemvalue="Application.ForFlexibleApp" />
-        <item itemvalue="Application.ForBigIntApp" />
-        <item itemvalue="Application.ForPowerApp" />
+        <item itemvalue="Application.StarsDesc10" />
+        <item itemvalue="Application.StarsAsc10" />
+        <item itemvalue="Application.StarsHV10" />
+        <item itemvalue="Application.Stars10Vertical" />
+        <item itemvalue="Application.Stars10" />
       </list>
     </recent_temporary>
   </component>
@@ -218,13 +216,22 @@
       <option name="project" value="LOCAL" />
       <updated>1699381371671</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="8/11/2023&#10;Training and CFCourse">
+      <option name="closed" value="true" />
+      <created>1699462027602</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699462027603</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="6/11/2023&#10;Training and CFCourse" />
     <MESSAGE value="7/11/2023&#10;Training and CFCourse" />
-    <option name="LAST_COMMIT_MESSAGE" value="7/11/2023&#10;Training and CFCourse" />
+    <MESSAGE value="8/11/2023&#10;Training and CFCourse" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/11/2023&#10;Training and CFCourse" />
   </component>
 </project>
