@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="7/11/2023&#10;Training and CFCourse">
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/Array2App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/ArrayApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/ArrayInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/TEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/TipCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2XiiwU5xtgVzx3tfB47QJYGmuLz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,7 +45,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/CF-Java/CF-Java-Training/Java-CF-Chapters/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayInitializer">
+  <component name="RunManager" selected="Application.TipCalculator">
     <configuration name="Array2App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.Array2App" />
       <module name="Java-CF-Chapters" />
@@ -86,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch5.CalculatorApp" />
+    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.TEST" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch5.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOrOddApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch5.EvenOrOddApp" />
+    <configuration name="TipCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.TipCalculator" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch5.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TipCalculator" />
+        <item itemvalue="Application.TEST" />
         <item itemvalue="Application.ArrayInitializer" />
         <item itemvalue="Application.Array2App" />
         <item itemvalue="Application.ArrayApp" />
-        <item itemvalue="Application.CalculatorApp" />
-        <item itemvalue="Application.EvenOrOddApp" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699381371671</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="7/11/2023&#10;Training and CFCourse">
+      <option name="closed" value="true" />
+      <created>1699383701820</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699383701820</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
