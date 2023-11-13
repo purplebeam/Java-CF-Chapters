@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="10/11/2023&#10;Training and CFCourse">
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/SchoolManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/jgoodies-forms-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/mysql-connector-j-8.0.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/MethodsWithArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/ReplaceArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/SwapApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/SchoolManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/SchoolManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/CF-Java/CF-Java-Training/Java-CF-Chapters/src/Main.java&quot;
   }
 }</component>
@@ -52,9 +55,9 @@
       <recent name="C:\CF-Java\CF-Java-Training\Java-CF-Chapters\src\gr\aueb\codingfactory\other\smproject\bin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SchoolManagement">
-    <configuration name="Array2App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.Array2App" />
+  <component name="RunManager" selected="Application.SwapApp">
+    <configuration name="MethodsWithArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.MethodsWithArrays" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.ArrayInitializer" />
+    <configuration name="ReplaceArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.ReplaceArrayElements" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +95,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TEST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.TEST" />
+    <configuration name="SchoolManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem" />
+      <module name="Java-CF-Chapters" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.SwapApp" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -105,26 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.TipCalculator" />
-      <module name="Java-CF-Chapters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.other.smproject.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapApp" />
+        <item itemvalue="Application.ReplaceArrayElements" />
+        <item itemvalue="Application.MethodsWithArrays" />
         <item itemvalue="Application.SchoolManagement" />
-        <item itemvalue="Application.TipCalculator" />
-        <item itemvalue="Application.TEST" />
-        <item itemvalue="Application.ArrayInitializer" />
-        <item itemvalue="Application.Array2App" />
+        <item itemvalue="Application.SchoolManagementSystem" />
       </list>
     </recent_temporary>
   </component>
