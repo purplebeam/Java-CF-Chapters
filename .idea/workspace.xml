@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="10/11/2023&#10;Training and CFCourse">
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/MethodsWithArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/ReplaceArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/SwapApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="13/11/2023&#10;Training and CFCourse">
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson1/EducationCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson1/NameVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson1/SecGradeEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson1/SimpleMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson2/WaterTemp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/SchoolManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/SchoolManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/SwapApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/ch6/TEST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/TipCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/sololearnappjava/TipCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/SchoolManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/jgoodies-forms-1.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/smproject/mysql-connector-j-8.0.33.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +61,13 @@
       <recent name="C:\CF-Java\CF-Java-Training\Java-CF-Chapters\src\gr\aueb\codingfactory\other\smproject\bin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwapApp">
-    <configuration name="MethodsWithArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.MethodsWithArrays" />
+  <component name="RunManager" selected="Application.WaterTemp">
+    <configuration name="EducationCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson1.EducationCalculator" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch6.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.ReplaceArrayElements" />
+    <configuration name="NameVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson1.NameVariables" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch6.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.smproject.SchoolManagement" />
+    <configuration name="SecGradeEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson1.SecGradeEquation" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.other.smproject.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,19 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem" />
+    <configuration name="SimpleMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson1.SimpleMath" />
       <module name="Java-CF-Chapters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.ch6.SwapApp" />
+    <configuration name="WaterTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson2.WaterTemp" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.ch6.*" />
+          <option name="PATTERN" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwapApp" />
-        <item itemvalue="Application.ReplaceArrayElements" />
-        <item itemvalue="Application.MethodsWithArrays" />
-        <item itemvalue="Application.SchoolManagement" />
-        <item itemvalue="Application.SchoolManagementSystem" />
+        <item itemvalue="Application.WaterTemp" />
+        <item itemvalue="Application.SecGradeEquation" />
+        <item itemvalue="Application.EducationCalculator" />
+        <item itemvalue="Application.NameVariables" />
+        <item itemvalue="Application.SimpleMath" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699653393148</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="13/11/2023&#10;Training and CFCourse">
+      <option name="closed" value="true" />
+      <created>1699895818419</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1699895818419</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,6 +258,7 @@
     <MESSAGE value="6/11/2023&#10;Training and CFCourse" />
     <MESSAGE value="7/11/2023&#10;Training and CFCourse" />
     <MESSAGE value="10/11/2023&#10;Training and CFCourse" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/11/2023&#10;Training and CFCourse" />
+    <MESSAGE value="13/11/2023&#10;Training and CFCourse" />
+    <option name="LAST_COMMIT_MESSAGE" value="13/11/2023&#10;Training and CFCourse" />
   </component>
 </project>

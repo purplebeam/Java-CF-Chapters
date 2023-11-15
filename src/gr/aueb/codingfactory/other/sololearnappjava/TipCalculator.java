@@ -1,4 +1,4 @@
-package gr.aueb.codingfactory.other;
+package gr.aueb.codingfactory.other.sololearnappjava;
 
 import java.util.Scanner;
 
