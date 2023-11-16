@@ -21,13 +21,12 @@ public class MainUniversity {
 //        System.out.println(s3);
 
 
-
-        s1.addCourse(c1);
-        s1.addCourse(c3);
+        s3.printInfo();
+        s3.addCourse(c1);
+        s3.addCourse(c3);
         s3.addCourse(c2);
-        s1.printCourse();
         s3.printCourse();
-        c2.printStudents();
+
 
     }
 }
