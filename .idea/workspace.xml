@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="16/11/2023&#10;Training and CFCourse">
-      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ch4/HorizontalStars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/RoomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/RoomMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/MainUniversity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/MainUniversity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +53,7 @@
       <recent name="C:\CF-Java\CF-Java-Training\Java-CF-Chapters\src\gr\aueb\codingfactory\other\smproject\bin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GeneratingStars">
-    <configuration name="GeneratingStars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.exr.ch4.GeneratingStars" />
-      <module name="Java-CF-Chapters" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gr.aueb.codingfactory.exr.ch4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RoomMain">
     <configuration name="MainCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson3.MainCalculator" />
       <module name="Java-CF-Chapters" />
@@ -84,6 +73,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomMaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson3.RandomMaxMin" />
+      <module name="Java-CF-Chapters" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GeneratingStars" />
         <item itemvalue="Application.RoomMain" />
         <item itemvalue="Application.gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson4.MainUniversity" />
         <item itemvalue="Application.MainTime" />
         <item itemvalue="Application.MainCalculator" />
+        <item itemvalue="Application.RandomMaxMin" />
       </list>
     </recent_temporary>
   </component>
@@ -280,15 +282,7 @@
       <option name="project" value="LOCAL" />
       <updated>1700099635031</updated>
     </task>
-    <task id="LOCAL-00019" summary="16/11/2023&#10;Training and CFCourse">
-      <option name="closed" value="true" />
-      <created>1700101532124</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1700101532124</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
