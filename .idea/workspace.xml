@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="18/11/2023&#10;Training and CFCourse">
+    <list default="true" id="8ed1a6b1-43b1-4ef8-bbc4-74243d88105a" name="Changes" comment="19/11/2023&#10;Training and CFCourse">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ch4/GeneratingStars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/exr/ch4/GeneratingStars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson6/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson6/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson6/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson6/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/MainBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gr/aueb/codingfactory/other/datalabsthessalonikiexr/lesson4/MainBank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="C:\CF-Java\CF-Java-Training\Java-CF-Chapters\src\gr\aueb\codingfactory\other\smproject\bin" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MainBank">
     <configuration name="GeneratingStarsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.exr.ch5.GeneratingStarsMethods" />
       <module name="Java-CF-Chapters" />
@@ -81,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson4.MainTime" />
+    <configuration name="MainBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson4.MainBank" />
       <module name="Java-CF-Chapters" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainBank" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.GeneratingStarsMethods" />
         <item itemvalue="Application.RoomMain" />
         <item itemvalue="Application.gr.aueb.codingfactory.other.datalabsthessalonikiexr.lesson4.MainUniversity" />
-        <item itemvalue="Application.MainTime" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700338591030</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="19/11/2023&#10;Training and CFCourse">
+      <option name="closed" value="true" />
+      <created>1700352659690</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1700352659690</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -320,6 +327,7 @@
     <MESSAGE value="16/11/2023&#10;Training and CFCourse" />
     <MESSAGE value="17/11/2023&#10;Training and CFCourse" />
     <MESSAGE value="18/11/2023&#10;Training and CFCourse" />
-    <option name="LAST_COMMIT_MESSAGE" value="18/11/2023&#10;Training and CFCourse" />
+    <MESSAGE value="19/11/2023&#10;Training and CFCourse" />
+    <option name="LAST_COMMIT_MESSAGE" value="19/11/2023&#10;Training and CFCourse" />
   </component>
 </project>
