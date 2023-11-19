@@ -91,6 +91,10 @@ public class GeneratingStars {
                     System.out.println();
                 }
             break;
+
+            default:
+                System.out.println("Αυτή η επιλογή δεν υπάρχει!");
+                break;
         }
     }
 }
