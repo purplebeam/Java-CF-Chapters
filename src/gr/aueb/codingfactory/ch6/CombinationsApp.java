@@ -9,8 +9,8 @@ import java.util.Scanner;
 public class CombinationsApp {
 
     public static void main(String[] args) throws FileNotFoundException {
-        File inFile = new File("C:/tmp/inputData.txt");
-        File outFile = new File("C:/tmp/outputData.txt");
+        File inFile = new File("C:\\tmp\\inputData.txt");
+        File outFile = new File("C:\\tmp\\outputData.txt");
         Scanner in = new Scanner(inFile);
         PrintStream ps = new PrintStream(outFile);
         int m = 4;
