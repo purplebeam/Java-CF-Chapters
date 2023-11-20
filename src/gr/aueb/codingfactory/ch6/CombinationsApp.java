@@ -35,7 +35,7 @@ public class CombinationsApp {
                         row[3] = numbers.get(n);
 
                         System.out.printf("%d\t%d\t%d\t%d\n", row[0], row[1], row[2], row[3]);
-                        //ps.printf("%d\t%d\t%d\t%d", row[0], row[1], row[2], row[3]);
+                        ps.printf("%d\t%d\t%d\t%d\n", row[0], row[1], row[2], row[3]);
                     }
                 }
             }
